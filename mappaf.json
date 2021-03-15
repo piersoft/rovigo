@@ -1,0 +1,5925 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.203844,
+                    40.347479
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Le City Moda",
+                "stop_code": "214",
+                "stop_id": "1",
+                "stop_name": "City Moda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199212,
+                    40.345522
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Merine",
+                "stop_code": "215",
+                "stop_id": "2",
+                "stop_name": "Merine - Fronte Autocarrozzeri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194566,
+                    40.345259
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Merine",
+                "stop_code": "216",
+                "stop_id": "3",
+                "stop_name": "Merine - Angolo Via Micelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.188775,
+                    40.346663
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lecce Vernole",
+                "stop_code": "217",
+                "stop_id": "4",
+                "stop_name": "Lecce Vernole - Fronte Distrib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186148,
+                    40.347505
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Merine",
+                "stop_code": "194",
+                "stop_id": "5",
+                "stop_name": "Merine - Fronte Istituto Fermi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184225,
+                    40.347365
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Rossini",
+                "stop_code": "150",
+                "stop_id": "6",
+                "stop_name": "Rossini - Fronte Bar Antille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18097,
+                    40.346851
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Torre Del Parco",
+                "stop_code": "126",
+                "stop_id": "7",
+                "stop_name": "Torre Del Parco (dir. centro)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177915,
+                    40.347821
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Don Minzoni , 27",
+                "stop_code": "124",
+                "stop_id": "8",
+                "stop_name": "Don Minzoni  - Fronte Ex Inam,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174614,
+                    40.349277
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Otranto, 69",
+                "stop_code": "111",
+                "stop_id": "9",
+                "stop_name": "Otranto, 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176831,
+                    40.351808
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Cavallotti, 1",
+                "stop_code": "101",
+                "stop_id": "10",
+                "stop_name": "Cavallotti, 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176494,
+                    40.354541
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Cavallotti, 21",
+                "stop_code": "102",
+                "stop_id": "11",
+                "stop_name": "Cavallotti, 21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173727,
+                    40.35526
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Xxv Luglio",
+                "stop_code": "104",
+                "stop_id": "12",
+                "stop_name": "Xxv Luglio - Prefettura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173854,
+                    40.35215
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Xxv Luglio",
+                "stop_code": "105",
+                "stop_id": "13",
+                "stop_name": "XXV Luglio-BPP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173219,
+                    40.349251
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Zza Italia",
+                "stop_code": "107",
+                "stop_id": "14",
+                "stop_name": "Italia - Fronte Bar Haiti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177821,
+                    40.347694
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Don Minzoni , 8",
+                "stop_code": "125",
+                "stop_id": "15",
+                "stop_name": "Don Minzoni  -  Ex Inam, 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180837,
+                    40.346672
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Torre Del Parco",
+                "stop_code": "127",
+                "stop_id": "16",
+                "stop_name": "Torre Del Parco (dir. City M.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184285,
+                    40.34693
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Rossini, 76",
+                "stop_code": "151",
+                "stop_id": "17",
+                "stop_name": "Rossini, 76 (ag. immobiliare)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185937,
+                    40.347338
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Merine",
+                "stop_code": "193",
+                "stop_id": "18",
+                "stop_name": "Merine - Istituto Fermi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.189796,
+                    40.351988
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gentile, 60",
+                "stop_code": "199",
+                "stop_id": "21",
+                "stop_name": "Gentile, 60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.191328,
+                    40.354918
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pitagora",
+                "stop_code": "201",
+                "stop_id": "22",
+                "stop_name": "Pitagora - Mercati Generali - "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.192245,
+                    40.355545
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Moro",
+                "stop_code": "203",
+                "stop_id": "23",
+                "stop_name": "Moro - Mercato Multietnico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194578,
+                    40.355234
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lodi s.n.",
+                "stop_code": "210",
+                "stop_id": "24",
+                "stop_name": "Abba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195049,
+                    40.35226
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lodi, 32",
+                "stop_code": "211",
+                "stop_id": "25",
+                "stop_name": "Lodi, 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196194,
+                    40.351325
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Della Cavalleria, 48",
+                "stop_code": "212",
+                "stop_id": "26",
+                "stop_name": "Della Cavalleria, 48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.203387,
+                    40.35172
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Alberto Sordi, 6",
+                "stop_code": "213",
+                "stop_id": "27",
+                "stop_name": "Alberto Sordi - Complesso Agav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174988,
+                    40.356238
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Garibaldi, 35",
+                "stop_code": "103",
+                "stop_id": "29",
+                "stop_name": "Garibaldi, 35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172921,
+                    40.349286
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Lo Re' ",
+                "stop_code": "108",
+                "stop_id": "30",
+                "stop_name": "Lo Re'  -  Porta S. Biagio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.171617,
+                    40.347058
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Otranto , 11",
+                "stop_code": "109",
+                "stop_id": "31",
+                "stop_name": "Otranto  - Bar Otranto, 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173386,
+                    40.348378
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Otranto",
+                "stop_code": "110",
+                "stop_id": "32",
+                "stop_name": "Otranto - Piazza Italia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173335,
+                    40.358655
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le De Pietro",
+                "stop_code": "112",
+                "stop_id": "33",
+                "stop_name": "De Pietro - Palazzo Di Giustiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172888,
+                    40.358756
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le De Pietro",
+                "stop_code": "113",
+                "stop_id": "34",
+                "stop_name": "De Pietro - Fronte Palazzo Di "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.171467,
+                    40.360291
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le De Pietro",
+                "stop_code": "114",
+                "stop_id": "35",
+                "stop_name": "De Pietro - Fronte Caserma Vvu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.171858,
+                    40.359848
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le De Pietro",
+                "stop_code": "115",
+                "stop_id": "36",
+                "stop_name": "De Pietro - Scuola Sup. De Gio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176925,
+                    40.351593
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via 95\u00b0 Regg. Fant. ",
+                "stop_code": "116",
+                "stop_id": "37",
+                "stop_name": "95\u00b0 Regg. Fant.  - Fronte Civi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176857,
+                    40.355396
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Imperatore  Adriano , 4B",
+                "stop_code": "119",
+                "stop_id": "40",
+                "stop_name": "Imperatore  Adriano , 4B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.179628,
+                    40.355387
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Imperatore  Adriano, 77",
+                "stop_code": "120",
+                "stop_id": "41",
+                "stop_name": "Imperatore  Adriano - Chiesa D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.179811,
+                    40.355492
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via del Mare, 2",
+                "stop_code": "121",
+                "stop_id": "42",
+                "stop_name": "Imperatore Adriano, 60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183825,
+                    40.356435
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Del Mare, 18",
+                "stop_code": "122",
+                "stop_id": "43",
+                "stop_name": "Del Mare - Edicola, 18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183454,
+                    40.35647
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Del Mare  ",
+                "stop_code": "123",
+                "stop_id": "44",
+                "stop_name": "Del Mare   - Fronte Edicola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173493,
+                    40.347856
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca ",
+                "stop_code": "128",
+                "stop_id": "45",
+                "stop_name": "Leuca  - Istituto Magistrale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17557,
+                    40.342943
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca , 86",
+                "stop_code": "130",
+                "stop_id": "47",
+                "stop_name": "Leuca  - Albergo Delle Palme, "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172809,
+                    40.343768
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "136",
+                "stop_id": "53",
+                "stop_name": "V.Le Marche-fronte INPS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166369,
+                    40.346233
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Quarta O.",
+                "stop_code": "137",
+                "stop_id": "54",
+                "stop_name": "Quarta O. - Stazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168849,
+                    40.347338
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Gallipoli ",
+                "stop_code": "138",
+                "stop_id": "55",
+                "stop_name": "Gallipoli  - Intendenza Di Fin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170352,
+                    40.346544
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Gallipoli ",
+                "stop_code": "139",
+                "stop_id": "56",
+                "stop_name": "Gallipoli  - Museo S. Castrome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17107,
+                    40.345961
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Marche",
+                "stop_code": "140",
+                "stop_id": "57",
+                "stop_name": "Marche - Ex Onmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172539,
+                    40.343869
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Marche",
+                "stop_code": "141",
+                "stop_id": "58",
+                "stop_name": "Marche - Inps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.171234,
+                    40.345996
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le MarcheMarche - fronte ex ONMI",
+                "stop_code": "142",
+                "stop_id": "59",
+                "stop_name": "Marche - fronte ex ONMI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174977,
+                    40.342676
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Marche",
+                "stop_code": "143",
+                "stop_id": "60",
+                "stop_name": "Marche -  Clinica Villa Bianca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.175104,
+                    40.342531
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Marche",
+                "stop_code": "144",
+                "stop_id": "61",
+                "stop_name": "Marche - Fronte Villa Bianca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17841,
+                    40.343277
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Rossini",
+                "stop_code": "146",
+                "stop_id": "63",
+                "stop_name": "Rossini - Ex Galateo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.178338,
+                    40.343404
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Rossini",
+                "stop_code": "147",
+                "stop_id": "64",
+                "stop_name": "Rossini - Fronte Ex Galateo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185754,
+                    40.351242
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Japigia",
+                "stop_code": "154",
+                "stop_id": "69",
+                "stop_name": "Japigia - Fronte Enel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185967,
+                    40.352593
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Japigia ",
+                "stop_code": "155",
+                "stop_id": "70",
+                "stop_name": "Japigia  - Dopo Incrocio Via B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184871,
+                    40.355448
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Japigia , 13",
+                "stop_code": "156",
+                "stop_id": "71",
+                "stop_name": "Japigia  - Incrocio Via Lupiae"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185116,
+                    40.354694
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Japigia , 2D",
+                "stop_code": "157",
+                "stop_id": "72",
+                "stop_name": "Japigia ,2D ( Vobis)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183299,
+                    40.358168
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Leopardi, 156",
+                "stop_code": "158",
+                "stop_id": "73",
+                "stop_name": "Leopardi - Prima Della Rotator"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183315,
+                    40.357874
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Leopardi, 147",
+                "stop_code": "159",
+                "stop_id": "74",
+                "stop_name": "Leopardi - Subito Dopo Rotator"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180729,
+                    40.360611
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Leopardi , 71",
+                "stop_code": "160",
+                "stop_id": "75",
+                "stop_name": "Leopardi  - Poco Prima Incroci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.179822,
+                    40.36133
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Leopardi, 84",
+                "stop_code": "161",
+                "stop_id": "76",
+                "stop_name": "Leopardi - Bar Yvonne, 84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177021,
+                    40.36223
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Leopardi, 5",
+                "stop_code": "162",
+                "stop_id": "77",
+                "stop_name": "Leopardi - Dopo Incrocio Via D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17594,
+                    40.36266
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Foscolo ",
+                "stop_code": "163",
+                "stop_id": "78",
+                "stop_name": "Foscolo  - Marozzi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172611,
+                    40.36266
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Foscolo ",
+                "stop_code": "164",
+                "stop_id": "79",
+                "stop_name": "Foscolo  -  Lato Chiesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172657,
+                    40.362528
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Foscolo ",
+                "stop_code": "165",
+                "stop_id": "80",
+                "stop_name": "Foscolo  - Fronte Chiesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17054,
+                    40.361322
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Foscolo ",
+                "stop_code": "166",
+                "stop_id": "81",
+                "stop_name": "Foscolo  - Fronte Api"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170543,
+                    40.361116
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Foscolo , 2",
+                "stop_code": "167",
+                "stop_id": "82",
+                "stop_name": "Foscolo  - Lato Api, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169049,
+                    40.359501
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Calasso",
+                "stop_code": "168",
+                "stop_id": "83",
+                "stop_name": "Calasso - Lato C. Pranzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169055,
+                    40.35983
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Calasso",
+                "stop_code": "169",
+                "stop_id": "84",
+                "stop_name": "Calasso - Fronte C. Pranzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167588,
+                    40.357181
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.le Calasso",
+                "stop_code": "170",
+                "stop_id": "85",
+                "stop_name": "Parcheggio C.Pranzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167687,
+                    40.357585
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.le Calasso",
+                "stop_code": "171",
+                "stop_id": "86",
+                "stop_name": "Porta Napoli -  Lato Cimitero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.165827,
+                    40.354799
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Dell'Universita' , 47",
+                "stop_code": "172",
+                "stop_id": "87",
+                "stop_name": "Dell'Universita'  - Fronte Lic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166093,
+                    40.354602
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Dell'Universita' ",
+                "stop_code": "173",
+                "stop_id": "88",
+                "stop_name": "Dell'Universita'  - Liceo Palm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.164205,
+                    40.351532
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Dell'Universita' ",
+                "stop_code": "175",
+                "stop_id": "90",
+                "stop_name": "Dell'Universita'  - Porta Rudi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.163915,
+                    40.351685
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Dell'Universita', 85",
+                "stop_code": "176",
+                "stop_id": "91",
+                "stop_name": "Dell'Universita' - Fronte Port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.163604,
+                    40.350496
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Gallipoli",
+                "stop_code": "177",
+                "stop_id": "92",
+                "stop_name": "Gallipoli - Bar Rosso E Nero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.163741,
+                    40.35065
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Gallipoli, 2B",
+                "stop_code": "178",
+                "stop_id": "93",
+                "stop_name": "Gallipoli - Fronte Bar Rosso E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166452,
+                    40.348764
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Gallipoli, 9",
+                "stop_code": "179",
+                "stop_id": "94",
+                "stop_name": "Gallipoli - Case Incis, 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166623,
+                    40.348873
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Gallipoli, 16",
+                "stop_code": "180",
+                "stop_id": "95",
+                "stop_name": "Gallipoli, 16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176486,
+                    40.340211
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca, 213\/A",
+                "stop_code": "181",
+                "stop_id": "96",
+                "stop_name": "Leuca - Fronte Fontanina Acque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176748,
+                    40.340167
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca, 162",
+                "stop_code": "182",
+                "stop_id": "97",
+                "stop_name": "Leuca - Fontanina Acquedotto, "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177596,
+                    40.338145
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca, 210",
+                "stop_code": "183",
+                "stop_id": "98",
+                "stop_name": "Leuca, 210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177389,
+                    40.338083
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca, 241",
+                "stop_code": "184",
+                "stop_id": "99",
+                "stop_name": "Leuca, 241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17842,
+                    40.336118
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca (Castromediano)",
+                "stop_code": "185",
+                "stop_id": "100",
+                "stop_name": "Leuca - Tra Civico 25 E Civico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.178406,
+                    40.335719
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca, 34 (Castromediano)",
+                "stop_code": "186",
+                "stop_id": "101",
+                "stop_name": "Leuca - Tra Edicola (Civ. 34) "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180008,
+                    40.332065
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca, 116 (Castromediano)",
+                "stop_code": "187",
+                "stop_id": "102",
+                "stop_name": "Leuca - Subito Dopo Barbiere ("
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180228,
+                    40.332004
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca (Castromediano)",
+                "stop_code": "188",
+                "stop_id": "103",
+                "stop_name": "Leuca - Fronte Fermata 187 Su "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18106,
+                    40.32953
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca (Castromediano)",
+                "stop_code": "189",
+                "stop_id": "104",
+                "stop_name": "Leuca - Fronte Supermercato Md"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.181888,
+                    40.328302
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca (Castromediano) ",
+                "stop_code": "190",
+                "stop_id": "105",
+                "stop_name": "Leuca  - Stazione Servizio Agi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182151,
+                    40.326784
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca (Tempi Nuovi)",
+                "stop_code": "191",
+                "stop_id": "106",
+                "stop_name": "Leuca  - Rivenditore Auto Usat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183402,
+                    40.323845
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Leuca (Tempi Nuovi) ",
+                "stop_code": "192",
+                "stop_id": "107",
+                "stop_name": "Leuca  - Tempi Nuovi - Distrib"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186547,
+                    40.351018
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gentile, 26",
+                "stop_code": "197",
+                "stop_id": "108",
+                "stop_name": "Gentile, 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186521,
+                    40.351317
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gentile, 29",
+                "stop_code": "198",
+                "stop_id": "109",
+                "stop_name": "Gentile, 29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.190029,
+                    40.352321
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gentile, 47",
+                "stop_code": "200",
+                "stop_id": "110",
+                "stop_name": "Gentile, 47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.191185,
+                    40.355089
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pitagora",
+                "stop_code": "202",
+                "stop_id": "111",
+                "stop_name": "Pitagora - Fronte Capolinea Su"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.192123,
+                    40.355791
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Moro, 9",
+                "stop_code": "204",
+                "stop_id": "112",
+                "stop_name": "Moro - Fronte Mercato Multietn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195417,
+                    40.355834
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Moro",
+                "stop_code": "205",
+                "stop_id": "113",
+                "stop_name": "Moro - Clinica Petrucciani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195023,
+                    40.355997
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Moro, 55",
+                "stop_code": "206",
+                "stop_id": "114",
+                "stop_name": "Moro - Fronte Clinica Petrucci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199107,
+                    40.356067
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Potenza",
+                "stop_code": "207",
+                "stop_id": "115",
+                "stop_name": "Potenza - Palazzo Regione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.198179,
+                    40.356229
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Moro",
+                "stop_code": "208",
+                "stop_id": "116",
+                "stop_name": "Moro - Subito Dopo Uscita Da V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20169,
+                    40.356321
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Potenza",
+                "stop_code": "209",
+                "stop_id": "117",
+                "stop_name": "Potenza - Oltre Civ. 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.204315,
+                    40.357001
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Benevento , 15",
+                "stop_code": "218",
+                "stop_id": "118",
+                "stop_name": "Benevento , 15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.204004,
+                    40.356905
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Benevento ",
+                "stop_code": "219",
+                "stop_id": "119",
+                "stop_name": "Benevento  - Fronte Civ. 13 (F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20396,
+                    40.35905
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Avellino ",
+                "stop_code": "220",
+                "stop_id": "120",
+                "stop_name": "Avellino  - dir. Via Torino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.203796,
+                    40.359229
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Avellino ",
+                "stop_code": "221",
+                "stop_id": "121",
+                "stop_name": "Avellino - dir. Piazza Napoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.206025,
+                    40.35958
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Cagliari",
+                "stop_code": "222",
+                "stop_id": "122",
+                "stop_name": "Cagliari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.204881,
+                    40.360471
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Torino",
+                "stop_code": "223",
+                "stop_id": "123",
+                "stop_name": "Torino - Fermata 223"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.204794,
+                    40.360282
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Torino",
+                "stop_code": "224",
+                "stop_id": "124",
+                "stop_name": "Torino - Fermata 224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20195,
+                    40.360892
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Venezia",
+                "stop_code": "225",
+                "stop_id": "125",
+                "stop_name": "Venezia (Fermata 225)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.201778,
+                    40.360694
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Venezia",
+                "stop_code": "226",
+                "stop_id": "126",
+                "stop_name": "Venezia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199798,
+                    40.360782
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Machiavelli ",
+                "stop_code": "227",
+                "stop_id": "127",
+                "stop_name": "Machiavelli  - Lato Edicola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199345,
+                    40.360857
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Machiavelli",
+                "stop_code": "228",
+                "stop_id": "128",
+                "stop_name": "Machiavelli - Lato Benzina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199081,
+                    40.359238
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Verona (fr. lato compl. La staffa)",
+                "stop_code": "229",
+                "stop_id": "129",
+                "stop_name": "Verona - Lato Cgil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.198706,
+                    40.359339
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Verona (lato compl. La Staffa)",
+                "stop_code": "230",
+                "stop_id": "130",
+                "stop_name": "Verona - Fronte Cgil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.201968,
+                    40.356519
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Potenza",
+                "stop_code": "231",
+                "stop_id": "131",
+                "stop_name": "Potenza - Fronte Civ. 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196946,
+                    40.35862
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Bari, 32",
+                "stop_code": "232",
+                "stop_id": "132",
+                "stop_name": "Bari - Complesso Staffa, 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196811,
+                    40.358387
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Bari",
+                "stop_code": "233",
+                "stop_id": "133",
+                "stop_name": "Bari - Fronte Civ. 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194269,
+                    40.358278
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Bari",
+                "stop_code": "234",
+                "stop_id": "134",
+                "stop_name": "Bari - Liceo Classico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194362,
+                    40.35862
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Bari, 2",
+                "stop_code": "235",
+                "stop_id": "135",
+                "stop_name": "Bari - Fronte Liceo Classico, "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.193088,
+                    40.358466
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lupiae",
+                "stop_code": "236",
+                "stop_id": "136",
+                "stop_name": "Lupiae - Lato Benzina Api"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186478,
+                    40.357085
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' , 77",
+                "stop_code": "237",
+                "stop_id": "137",
+                "stop_name": "Della Liberta' , 77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18637,
+                    40.357299
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta', 50",
+                "stop_code": "238",
+                "stop_id": "138",
+                "stop_name": "Della Liberta' - Fronte Bar L'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.188185,
+                    40.357611
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' , 117",
+                "stop_code": "239",
+                "stop_id": "139",
+                "stop_name": "Della Liberta'  - Vicino Tabac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.187623,
+                    40.357677
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' , 78",
+                "stop_code": "240",
+                "stop_id": "140",
+                "stop_name": "Della Liberta'  - Fronte Tabac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.191172,
+                    40.358655
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' , 134",
+                "stop_code": "241",
+                "stop_id": "141",
+                "stop_name": "Della Liberta'  - Fronte Super"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.191275,
+                    40.358422
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' ",
+                "stop_code": "242",
+                "stop_id": "142",
+                "stop_name": "Della Liberta'  - Super Mac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.193035,
+                    40.359015
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' , 171",
+                "stop_code": "243",
+                "stop_id": "143",
+                "stop_name": "Della Liberta'  - Fronte Farma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195237,
+                    40.359615
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Liberta' , 195",
+                "stop_code": "244",
+                "stop_id": "144",
+                "stop_name": "Della Liberta'  - Dopo Semafor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19388,
+                    40.35994
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Zza Palio",
+                "stop_code": "245",
+                "stop_id": "145",
+                "stop_name": "Palio - Rotatoria Da S. Catald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194131,
+                    40.360344
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Zza Palio ",
+                "stop_code": "246",
+                "stop_id": "146",
+                "stop_name": "Palio  - Ist. Tecnico G. Galil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.192523,
+                    40.361396
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Zza Palio",
+                "stop_code": "247",
+                "stop_id": "147",
+                "stop_name": "Palio - Liceo Scientifico Banz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.193167,
+                    40.362896
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Alessandria",
+                "stop_code": "248",
+                "stop_id": "148",
+                "stop_name": "Alessandria - Lato Palazzetto "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.193476,
+                    40.363028
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Alessandria",
+                "stop_code": "249",
+                "stop_id": "149",
+                "stop_name": "Alessandria - Fronte Palazzett"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194283,
+                    40.363642
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Agrigento , 2",
+                "stop_code": "250",
+                "stop_id": "150",
+                "stop_name": "Agrigento , 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196582,
+                    40.362247
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Siracusa, 34",
+                "stop_code": "251",
+                "stop_id": "151",
+                "stop_name": "Siracusa, 34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196776,
+                    40.36248
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Siracusa ",
+                "stop_code": "252",
+                "stop_id": "152",
+                "stop_name": "Siracusa  - Fronte Fermata 251"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199947,
+                    40.362984
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Siracusa",
+                "stop_code": "253",
+                "stop_id": "153",
+                "stop_name": "Siracusa - Lato Scuola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199751,
+                    40.362831
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Siracusa ",
+                "stop_code": "254",
+                "stop_id": "154",
+                "stop_name": "Siracusa  - Fronte Scuola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.201673,
+                    40.363839
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Siracusa ",
+                "stop_code": "255",
+                "stop_id": "155",
+                "stop_name": "Siracusa  - Lato Ex Asilo Cent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20191,
+                    40.363971
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Siracusa ",
+                "stop_code": "256",
+                "stop_id": "156",
+                "stop_name": "Siracusa  - Fronte Ex Asilo Ce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199889,
+                    40.364774
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Carrara",
+                "stop_code": "257",
+                "stop_id": "157",
+                "stop_name": "Carrara - Scuola Elementare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199673,
+                    40.364853
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Carrara",
+                "stop_code": "258",
+                "stop_id": "158",
+                "stop_name": "Carrara - Fronte Scuola Elemen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.200975,
+                    40.366454
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pistoia",
+                "stop_code": "259",
+                "stop_id": "159",
+                "stop_name": "Pistoia (Fronte chiesa)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.203931,
+                    40.366471
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lucca",
+                "stop_code": "262",
+                "stop_id": "162",
+                "stop_name": "Lucca - Fronte Autolavaggio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.203772,
+                    40.36841
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lucca",
+                "stop_code": "264",
+                "stop_id": "164",
+                "stop_name": "Lucca - Poco Oltre Fronte Edic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199335,
+                    40.365831
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II",
+                "stop_code": "265",
+                "stop_id": "165",
+                "stop_name": "V.le G. Paolo II\u00b0 (dopo Rot.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196847,
+                    40.365743
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II (Via Pesaro)",
+                "stop_code": "266",
+                "stop_id": "166",
+                "stop_name": "Giovanni Paolo II - Pensilina "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196841,
+                    40.365511
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le G.Paolo II (Fr. coop. Via Pesaro)",
+                "stop_code": "267",
+                "stop_id": "167",
+                "stop_name": "Giovanni Paolo II  - Fronte P."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19127,
+                    40.363765
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II",
+                "stop_code": "268",
+                "stop_id": "168",
+                "stop_name": "V.le G. Paolo II\u00b0 (vivaio)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.191513,
+                    40.363524
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II",
+                "stop_code": "269",
+                "stop_id": "169",
+                "stop_name": "Giovanni Paolo II- Prima Del "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.188646,
+                    40.361962
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II, 65",
+                "stop_code": "270",
+                "stop_id": "170",
+                "stop_name": "Giovanni Paolo II, 65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186762,
+                    40.36083
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II, 21",
+                "stop_code": "271",
+                "stop_id": "171",
+                "stop_name": "Giovanni Paolo II, 21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18739,
+                    40.360874
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II, 20",
+                "stop_code": "272",
+                "stop_id": "172",
+                "stop_name": "Giovanni Paolo II, 20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184224,
+                    40.359085
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II, 2",
+                "stop_code": "273",
+                "stop_id": "173",
+                "stop_name": "Giovanni Paolo II, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.184633,
+                    40.359624
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Giovanni Paolo II",
+                "stop_code": "274",
+                "stop_id": "174",
+                "stop_name": "Giovanni Paolo II - Citta' Mer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.181309,
+                    40.362133
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Domenico Savio, 66",
+                "stop_code": "275",
+                "stop_id": "175",
+                "stop_name": "S. Domenico Savio, 66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183021,
+                    40.362896
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Dei Salesiani, 39",
+                "stop_code": "277",
+                "stop_id": "177",
+                "stop_name": "Dei Salesiani - Fronte Cinema,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18489,
+                    40.363927
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Dei Palumbo",
+                "stop_code": "280",
+                "stop_id": "180",
+                "stop_name": "Dei Palumbo - Fronte Campi Di "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186913,
+                    40.365787
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via D'Andrea",
+                "stop_code": "281",
+                "stop_id": "181",
+                "stop_name": "D'Andrea - Pressi Edicola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.186241,
+                    40.366541
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Biasco",
+                "stop_code": "282",
+                "stop_id": "182",
+                "stop_name": "Biasco - Fronte Civ. 33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.183902,
+                    40.368006
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Biasco",
+                "stop_code": "283",
+                "stop_id": "183",
+                "stop_name": "Biasco - Fronte Civ. 43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18128,
+                    40.366164
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via V. Frigole (dopo c.le latte)",
+                "stop_code": "286",
+                "stop_id": "186",
+                "stop_name": "V. Frigole, (dopo c.le latte)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.178123,
+                    40.36319
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via V. Frigole, ..",
+                "stop_code": "287",
+                "stop_id": "187",
+                "stop_name": "V, Frigole, .. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17678,
+                    40.364046
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo, 35",
+                "stop_code": "288",
+                "stop_id": "188",
+                "stop_name": "Giammatteo, 35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176592,
+                    40.364269
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "289",
+                "stop_id": "189",
+                "stop_name": "Giammatteo - Fronte Civ. 35 (F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177086,
+                    40.367397
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "290",
+                "stop_id": "190",
+                "stop_name": "Giammatteo - Fronte Scuola Sma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176842,
+                    40.36737
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "291",
+                "stop_id": "191",
+                "stop_name": "Giammatteo - Scuola Smaldone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17786,
+                    40.370371
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "292",
+                "stop_id": "192",
+                "stop_name": "Giammatteo - Dopo Via Tanagro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.177658,
+                    40.370414
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "293",
+                "stop_id": "193",
+                "stop_name": "Giammatteo - Dopo V. Tanagro "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169829,
+                    40.363813
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica",
+                "stop_code": "297",
+                "stop_id": "197",
+                "stop_name": "Adriatica - Lato Scuola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170161,
+                    40.363506
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Fontana , 8",
+                "stop_code": "298",
+                "stop_id": "198",
+                "stop_name": "Fontana , 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.171979,
+                    40.362822
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Po",
+                "stop_code": "299",
+                "stop_id": "199",
+                "stop_name": "Po - Lato Chiesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.171787,
+                    40.362905
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Po",
+                "stop_code": "300",
+                "stop_id": "200",
+                "stop_name": "Po - Fronte Chiesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172672,
+                    40.364151
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Indipendenza",
+                "stop_code": "301",
+                "stop_id": "201",
+                "stop_name": "Indipendenza - Macelleria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172757,
+                    40.363901
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Indipendenza",
+                "stop_code": "302",
+                "stop_id": "202",
+                "stop_name": "Indipendenza - Fronte Maceller"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173538,
+                    40.365204
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Indipendenza, 24 (dir. V.Indipendenza)",
+                "stop_code": "303",
+                "stop_id": "203",
+                "stop_name": "Indipendenza, 24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174064,
+                    40.365392
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Indipendenza (dir. Via Mincio)",
+                "stop_code": "304",
+                "stop_id": "204",
+                "stop_name": "Indipendenza - Fronte Dx Fonta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.175711,
+                    40.364432
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Basento",
+                "stop_code": "307",
+                "stop_id": "207",
+                "stop_name": "Basento - Fronte Fermata 308"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176015,
+                    40.36398
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Basento, 1",
+                "stop_code": "308",
+                "stop_id": "208",
+                "stop_name": "Basento, 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169159,
+                    40.365572
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 123",
+                "stop_code": "309",
+                "stop_id": "209",
+                "stop_name": "Adriatica, 123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169432,
+                    40.365752
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 80",
+                "stop_code": "310",
+                "stop_id": "210",
+                "stop_name": "Adriatica - Fronte Fermata 309"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168509,
+                    40.368634
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 149",
+                "stop_code": "311",
+                "stop_id": "211",
+                "stop_name": "Adriatica - Fronte Caffetteria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168703,
+                    40.369129
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 136",
+                "stop_code": "312",
+                "stop_id": "212",
+                "stop_name": "Adriatica - Caffetteria Fuori "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169158,
+                    40.373244
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 191",
+                "stop_code": "313",
+                "stop_id": "213",
+                "stop_name": "Adriatica - Lato Carrozzeria, "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169427,
+                    40.37345
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 156",
+                "stop_code": "314",
+                "stop_id": "214",
+                "stop_name": "Adriatica - Fronte  Carrozzeri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169557,
+                    40.376064
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 178",
+                "stop_code": "315",
+                "stop_id": "215",
+                "stop_name": "Adriatica, 178"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169329,
+                    40.376226
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 229",
+                "stop_code": "316",
+                "stop_id": "216",
+                "stop_name": "Adriatica, 229"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168606,
+                    40.382854
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica, 273",
+                "stop_code": "317",
+                "stop_id": "217",
+                "stop_name": "Adriatica, 273"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168894,
+                    40.382692
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica",
+                "stop_code": "318",
+                "stop_id": "218",
+                "stop_name": "Adriatica - Fronte Fermata 317"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168808,
+                    40.385424
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica",
+                "stop_code": "319",
+                "stop_id": "219",
+                "stop_name": "Adriatica - Outline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166572,
+                    40.390284
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Fitto S.",
+                "stop_code": "320",
+                "stop_id": "220",
+                "stop_name": "Fitto S. - Motorizzazione Civi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167529,
+                    40.391451
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Fitto S.",
+                "stop_code": "321",
+                "stop_id": "221",
+                "stop_name": "Fitto S. - Fine V. S.Fitto Fer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166707,
+                    40.357164
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Taranto, 5",
+                "stop_code": "322",
+                "stop_id": "222",
+                "stop_name": "Taranto, 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161815,
+                    40.358962
+                ]
+            },
+            "properties": {
+                "stop_desc": "Taranto, 77",
+                "stop_code": "323",
+                "stop_id": "223",
+                "stop_name": "Taranto, 77 (fronte posta)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157309,
+                    40.360567
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "324",
+                "stop_id": "224",
+                "stop_name": "Taranto, 159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.153101,
+                    40.36205
+                ]
+            },
+            "properties": {
+                "stop_desc": "Taranto, 181",
+                "stop_code": "325",
+                "stop_id": "225",
+                "stop_name": "Taranto - Fronte Corriere Dhl,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.149505,
+                    40.363344
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Taranto, 267A",
+                "stop_code": "326",
+                "stop_id": "226",
+                "stop_name": "Taranto - Anas, 267A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.146639,
+                    40.364182
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Taranto",
+                "stop_code": "327",
+                "stop_id": "227",
+                "stop_name": "Taranto - Fronte Motel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.148978,
+                    40.362537
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gidiuli, 1",
+                "stop_code": "328",
+                "stop_id": "228",
+                "stop_name": "Gidiuli, 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.149046,
+                    40.361124
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Dorso, 8",
+                "stop_code": "329",
+                "stop_id": "229",
+                "stop_name": "Dorso, 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.151759,
+                    40.361037
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Extrafallaces, 26",
+                "stop_code": "330",
+                "stop_id": "230",
+                "stop_name": "Extrafallaces - Prossimita' Fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.152682,
+                    40.361072
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gidiuli, 35",
+                "stop_code": "331",
+                "stop_id": "231",
+                "stop_name": "Gidiuli - Dopo Via Extrafallac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.155548,
+                    40.359142
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gidiuli , 51",
+                "stop_code": "332",
+                "stop_id": "232",
+                "stop_name": "Gidiuli  - Incrocio Viale Dell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.155723,
+                    40.357299
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Zza S. Michele Arcangelo",
+                "stop_code": "333",
+                "stop_id": "233",
+                "stop_name": "S. Michele Arc. (case Magno)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157329,
+                    40.354532
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Toma, 69",
+                "stop_code": "334",
+                "stop_id": "234",
+                "stop_name": "Toma, 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.160333,
+                    40.353462
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Toma",
+                "stop_code": "335",
+                "stop_id": "235",
+                "stop_name": "Toma - Case Popolari Di Fronte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159692,
+                    40.354808
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Delle Anime",
+                "stop_code": "336",
+                "stop_id": "236",
+                "stop_name": "Delle Anime - Prima Di Svolta "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161193,
+                    40.356058
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pappacoda",
+                "stop_code": "337",
+                "stop_id": "237",
+                "stop_name": "Pappacoda - Fronte Edicola - P"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.164634,
+                    40.354593
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pozzuolo",
+                "stop_code": "338",
+                "stop_id": "238",
+                "stop_name": "Pozzuolo - Fronte Civ. 19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.191211,
+                    40.357146
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pitagora",
+                "stop_code": "339",
+                "stop_id": "239",
+                "stop_name": "Pitagora - Fronte Civ. 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161725,
+                    40.349251
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via De Jacobis",
+                "stop_code": "340",
+                "stop_id": "240",
+                "stop_name": "De Jacobis - Chiesa Dell'Idria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159917,
+                    40.347913
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Le Rudiae, 14",
+                "stop_code": "341",
+                "stop_id": "241",
+                "stop_name": "Rudiae - Dopo Sottopasso Verso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159688,
+                    40.347812
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Le Rudiae",
+                "stop_code": "342",
+                "stop_id": "242",
+                "stop_name": "Rudiae - Prima Sottopasso Vers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.151359,
+                    40.351659
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Grassi , 13",
+                "stop_code": "343",
+                "stop_id": "243",
+                "stop_name": "Grassi  - Prima Di Rotatoria P"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.149922,
+                    40.352304
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gemito",
+                "stop_code": "344",
+                "stop_id": "244",
+                "stop_name": "Gemito - Prima Della Rotatoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.147635,
+                    40.353966
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pellegrino, 24",
+                "stop_code": "345",
+                "stop_id": "245",
+                "stop_name": "Pellegrino - Prima Del Negozio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14735,
+                    40.35383
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pellegrino",
+                "stop_code": "346",
+                "stop_id": "246",
+                "stop_name": "Pellegrino - Fermata 346"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14984,
+                    40.352483
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gemito",
+                "stop_code": "347",
+                "stop_id": "247",
+                "stop_name": "Gemito - Fronte Fermata 344"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.144471,
+                    40.354488
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pellegrino",
+                "stop_code": "348",
+                "stop_id": "248",
+                "stop_name": "Pellegrino - 100 Metri Prima D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.144327,
+                    40.354264
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pellegrino",
+                "stop_code": "349",
+                "stop_id": "249",
+                "stop_name": "Pellegrino - Fermata 349"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.137186,
+                    40.355422
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento, 7",
+                "stop_code": "350",
+                "stop_id": "250",
+                "stop_name": "Lecce - Villa Convento, 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.136712,
+                    40.355637
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "351",
+                "stop_id": "251",
+                "stop_name": "Lecce - Villa Convento - Direz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.118656,
+                    40.358234
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "352",
+                "stop_id": "252",
+                "stop_name": "Lecce - Villa Convento (352)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11825,
+                    40.358133
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "353",
+                "stop_id": "253",
+                "stop_name": "Lecce - Villa Convento (353)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.112393,
+                    40.359221
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "354",
+                "stop_id": "254",
+                "stop_name": "Lecce - Villa Convento (354)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.11249,
+                    40.358922
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "355",
+                "stop_id": "255",
+                "stop_name": "Lecce - Villa Convento (355)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.106897,
+                    40.360019
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "356",
+                "stop_id": "256",
+                "stop_name": "Lecce - Villa Convento (356)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.107026,
+                    40.359751
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Villa Convento",
+                "stop_code": "357",
+                "stop_id": "257",
+                "stop_name": "Lecce - Villa Convento (357)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.087703,
+                    40.362752
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli",
+                "stop_code": "358",
+                "stop_id": "258",
+                "stop_name": "Lecce - Novoli - Provenendo Da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.087414,
+                    40.362563
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli",
+                "stop_code": "359",
+                "stop_id": "259",
+                "stop_name": "Lecce - Novoli - Fermata 359"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.081081,
+                    40.36373
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli",
+                "stop_code": "360",
+                "stop_id": "260",
+                "stop_name": "Lecce - Novoli - Ingresso Vill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.081018,
+                    40.363541
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli",
+                "stop_code": "361",
+                "stop_id": "261",
+                "stop_name": "Lecce - Novoli  Ingresso Villa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.078227,
+                    40.364133
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli, 24",
+                "stop_code": "362",
+                "stop_id": "262",
+                "stop_name": "Lecce - Novoli - Prima Di Via "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.078066,
+                    40.363936
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli, 103",
+                "stop_code": "363",
+                "stop_id": "263",
+                "stop_name": "Lecce - Novoli - Fermata 363"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.074186,
+                    40.364791
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli, 106",
+                "stop_code": "364",
+                "stop_id": "264",
+                "stop_name": "Lecce - Novoli - Prima Di Trav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.074119,
+                    40.364502
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli",
+                "stop_code": "365",
+                "stop_id": "265",
+                "stop_name": "Lecce - Novoli - Ristorante Ve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.070104,
+                    40.365304
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli, 132",
+                "stop_code": "366",
+                "stop_id": "266",
+                "stop_name": "Lecce - Novoli, 132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.071157,
+                    40.364989
+                ]
+            },
+            "properties": {
+                "stop_desc": "Prov. Lecce - Novoli, 195",
+                "stop_code": "367",
+                "stop_id": "267",
+                "stop_name": "Lecce - Novoli, 195"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.152622,
+                    40.355655
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Della Repubblica",
+                "stop_code": "368",
+                "stop_id": "268",
+                "stop_name": "Della Repubblica - Parco Gioch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.153998,
+                    40.353308
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Birago D. ",
+                "stop_code": "369",
+                "stop_id": "269",
+                "stop_name": "Birago D.  - Dopo Bivio Via Fi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.160627,
+                    40.351839
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Birago D. , 32",
+                "stop_code": "370",
+                "stop_id": "270",
+                "stop_name": "Birago D. , 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.162479,
+                    40.348799
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Diaz, 38",
+                "stop_code": "371",
+                "stop_id": "271",
+                "stop_name": "Diaz, 38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157183,
+                    40.34836
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Massaglia",
+                "stop_code": "373",
+                "stop_id": "273",
+                "stop_name": "Massaglia - Incrocio Via Vanvi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157247,
+                    40.348251
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Massaglia, 56",
+                "stop_code": "374",
+                "stop_id": "274",
+                "stop_name": "Massaglia, 56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15329,
+                    40.347119
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni, 37",
+                "stop_code": "375",
+                "stop_id": "275",
+                "stop_name": "Monteroni (inc. V. Maccagnani)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.153004,
+                    40.346851
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "376",
+                "stop_id": "276",
+                "stop_name": "Monteroni - Acquedotto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.150576,
+                    40.346158
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "377",
+                "stop_id": "277",
+                "stop_name": "Monteroni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.150471,
+                    40.345987
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "378",
+                "stop_id": "278",
+                "stop_name": "Monteroni - Fronte Fermata 377"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.147769,
+                    40.345198
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni, 61",
+                "stop_code": "379",
+                "stop_id": "279",
+                "stop_name": "Monteroni - Fronte Caserma Nac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.147967,
+                    40.345145
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "380",
+                "stop_id": "280",
+                "stop_name": "Monteroni - Caserma Nacci "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.141603,
+                    40.343132
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "381",
+                "stop_id": "281",
+                "stop_name": "Monteroni - Villa Verde (381)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.140983,
+                    40.342636
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "382",
+                "stop_id": "282",
+                "stop_name": "Monteroni - Villa Verde (382)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.130499,
+                    40.339496
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Arnesano",
+                "stop_code": "383",
+                "stop_id": "283",
+                "stop_name": "Arnesano - Clinica Citta' Di L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.127449,
+                    40.339127
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Arnesano",
+                "stop_code": "384",
+                "stop_id": "284",
+                "stop_name": "Arnesano - Centro Tecnologico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.13238,
+                    40.339575
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Arnesano",
+                "stop_code": "385",
+                "stop_id": "285",
+                "stop_name": "Arnesano - Fronte Centro Villa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.135005,
+                    40.339465
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "386",
+                "stop_id": "286",
+                "stop_name": "Monteroni - Dopo Incrocio Via "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.135003,
+                    40.339325
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "387",
+                "stop_id": "287",
+                "stop_name": "Monteroni - Prima Incrocio Via"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.12711,
+                    40.335074
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "388",
+                "stop_id": "288",
+                "stop_name": "Monteroni - Carcere Minorile"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.125134,
+                    40.333995
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Monteroni",
+                "stop_code": "389",
+                "stop_id": "289",
+                "stop_name": "Monteroni - Fronte Istituto Su"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.160584,
+                    40.347058
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Ducas, 14",
+                "stop_code": "390",
+                "stop_id": "290",
+                "stop_name": "Ducas, 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157609,
+                    40.343733
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Pietro In Lama",
+                "stop_code": "391",
+                "stop_id": "291",
+                "stop_name": "S. Pietro In Lama (Euronics)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.155415,
+                    40.341325
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Pietro In Lama",
+                "stop_code": "392",
+                "stop_id": "292",
+                "stop_name": "S. Pietro In Lama -Fermata 392"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.153616,
+                    40.339456
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Pietro In Lama",
+                "stop_code": "393",
+                "stop_id": "293",
+                "stop_name": "S. Pietro In Lama -Fermata 393"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.152454,
+                    40.338101
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Pietro In Lama, 81",
+                "stop_code": "394",
+                "stop_id": "294",
+                "stop_name": "S. Pietro In Lama, 81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.152981,
+                    40.337114
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Nocco, 2",
+                "stop_code": "395",
+                "stop_id": "295",
+                "stop_name": "Nocco, 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.153603,
+                    40.337877
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Indraccolo, 15",
+                "stop_code": "396",
+                "stop_id": "296",
+                "stop_name": "Indraccolo, 15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.156309,
+                    40.340474
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Bruni, 8",
+                "stop_code": "397",
+                "stop_id": "297",
+                "stop_name": "Bruni, 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.155458,
+                    40.336465
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lequile, 177",
+                "stop_code": "398",
+                "stop_id": "298",
+                "stop_name": "Lequile, 177"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15573,
+                    40.336592
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lequile, 182",
+                "stop_code": "399",
+                "stop_id": "299",
+                "stop_name": "Lequile, 182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.158459,
+                    40.331938
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.zza Muratore",
+                "stop_code": "400",
+                "stop_id": "300",
+                "stop_name": "Muratore - Fronte Ospedale - S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.158549,
+                    40.331526
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Zza Muratore",
+                "stop_code": "401",
+                "stop_id": "301",
+                "stop_name": "Muratore - Lato Ospedale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157476,
+                    40.339882
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lequile",
+                "stop_code": "402",
+                "stop_id": "302",
+                "stop_name": "Lequile (Fermata 402)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.158706,
+                    40.341974
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lequile",
+                "stop_code": "403",
+                "stop_id": "303",
+                "stop_name": "Lequile"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159657,
+                    40.34386
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lequile, 68",
+                "stop_code": "406",
+                "stop_id": "306",
+                "stop_name": "Lequile, 68 (bowling)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161056,
+                    40.346527
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lequile, 12",
+                "stop_code": "407",
+                "stop_id": "307",
+                "stop_name": "Lequile, 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170365,
+                    40.34572
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Realino B., 5",
+                "stop_code": "408",
+                "stop_id": "308",
+                "stop_name": "Realino B., 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170077,
+                    40.343921
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Realino B., 28",
+                "stop_code": "410",
+                "stop_id": "310",
+                "stop_name": "Realino B. - Fronte Incrocio V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168252,
+                    40.34357
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Massari O.",
+                "stop_code": "411",
+                "stop_id": "311",
+                "stop_name": "Massari O. - Fronte Case Popol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.162198,
+                    40.341176
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Grassi, 124",
+                "stop_code": "412",
+                "stop_id": "312",
+                "stop_name": "Grassi, 124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166928,
+                    40.33839
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Grassi",
+                "stop_code": "413",
+                "stop_id": "313",
+                "stop_name": "Grassi - Concessionaria Renaul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167698,
+                    40.336864
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario",
+                "stop_code": "414",
+                "stop_id": "314",
+                "stop_name": "S. Cesario - Vicinanze Stazion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167952,
+                    40.337013
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario, 86",
+                "stop_code": "415",
+                "stop_id": "315",
+                "stop_name": "S. Cesario - Fronte Stazione S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16704,
+                    40.33457
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario, 99",
+                "stop_code": "416",
+                "stop_id": "316",
+                "stop_name": "S. Cesario - Fronte Farmacia,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.167272,
+                    40.334421
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario, 112",
+                "stop_code": "417",
+                "stop_id": "317",
+                "stop_name": "S. Cesario - Farmacia, 112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.165997,
+                    40.330986
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario, 180",
+                "stop_code": "418",
+                "stop_id": "318",
+                "stop_name": "S. Cesario - Cerundolo, 180"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166099,
+                    40.330798
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario, 170",
+                "stop_code": "419",
+                "stop_id": "319",
+                "stop_name": "S. Cesario - Fronte Cerundolo,"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161785,
+                    40.330574
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Moscati",
+                "stop_code": "420",
+                "stop_id": "320",
+                "stop_name": "Moscati - Fronte Oncologico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.161802,
+                    40.330285
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Moscati",
+                "stop_code": "421",
+                "stop_id": "321",
+                "stop_name": "Moscati - Oncologico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169237,
+                    40.341219
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Cesario, 22",
+                "stop_code": "422",
+                "stop_id": "322",
+                "stop_name": "S. Cesario, 22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168429,
+                    40.362015
+                ]
+            },
+            "properties": {
+                "stop_desc": "Ss Le-Br",
+                "stop_code": "423",
+                "stop_id": "323",
+                "stop_name": "V.le P. d'Europa-Hotel Tiziano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16858,
+                    40.362133
+                ]
+            },
+            "properties": {
+                "stop_desc": "Ss Le-Br ",
+                "stop_code": "424",
+                "stop_id": "324",
+                "stop_name": "Le-Br  - City Terminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.194747,
+                    40.460004
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.P. Lecce - T. Chianca",
+                "stop_code": "425",
+                "stop_id": "325",
+                "stop_name": "Lecce - T. Chianca (Ferm. 425)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195162,
+                    40.459784
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.P. Lecce - T. Chianca",
+                "stop_code": "426",
+                "stop_id": "326",
+                "stop_name": "Lecce - T. Chianca (Ferm. 426)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19503,
+                    40.463908
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.P. Lecce - T. Chianca",
+                "stop_code": "427",
+                "stop_id": "327",
+                "stop_name": "Lecce - T. Chianca (Ferm. 427)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195151,
+                    40.463219
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.P. Lecce - T. Chianca",
+                "stop_code": "428",
+                "stop_id": "328",
+                "stop_name": "Lecce - T. Chianca (Ferm. 428)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.195273,
+                    40.465798
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.P. Lecce - T. Chianca",
+                "stop_code": "429",
+                "stop_id": "329",
+                "stop_name": "Lecce - T. Chianca (bar Simone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.192743,
+                    40.467702
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.P. Lecce - T. Chianca",
+                "stop_code": "430",
+                "stop_id": "330",
+                "stop_name": "Lecce - T. Chianca - Lido Circ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.158898,
+                    40.480286
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "440",
+                "stop_id": "340",
+                "stop_name": "Torre Rinalda (Torre)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159428,
+                    40.47979
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "441",
+                "stop_id": "341",
+                "stop_name": "Lecce Frigole S.Cataldo (441)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180346,
+                    40.465166
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "442",
+                "stop_id": "342",
+                "stop_name": "Lecce Frigole S.Cataldo (442)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.180196,
+                    40.464969
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo, 158",
+                "stop_code": "443",
+                "stop_id": "343",
+                "stop_name": "Lecce Frigole S.Cataldo (443)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.176129,
+                    40.470684
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "444",
+                "stop_id": "344",
+                "stop_name": "Lecce Frigole S.Cataldo - Nuov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.175637,
+                    40.470833
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "445",
+                "stop_id": "345",
+                "stop_name": "Lecce Frigole S.Cataldo (445)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172057,
+                    40.475904
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "446",
+                "stop_id": "346",
+                "stop_name": "Lecce Frigole S.Cataldo (446)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172057,
+                    40.475685
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce Frigole S.Cataldo",
+                "stop_code": "447",
+                "stop_id": "347",
+                "stop_name": "Lecce Frigole S.Cataldo (447)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.254481,
+                    40.427905
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lungomare Attilio Mori",
+                "stop_code": "448",
+                "stop_id": "348",
+                "stop_name": "Lungomare Attilio Mori - Lido "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.252837,
+                    40.430006
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lungomare Attilio Mori",
+                "stop_code": "449",
+                "stop_id": "349",
+                "stop_name": "Lungomare Attilio Mori - Front"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.250967,
+                    40.431932
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lungomare Attilio Mori",
+                "stop_code": "450",
+                "stop_id": "350",
+                "stop_name": "Lungomare Attilio Mori - Vicin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.255542,
+                    40.426405
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lungomare Attilio Mori",
+                "stop_code": "451",
+                "stop_id": "351",
+                "stop_name": "Lungomare Attilio Mori - Idrov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.239492,
+                    40.425506
+                ]
+            },
+            "properties": {
+                "stop_desc": "Borgo Frigole",
+                "stop_code": "452",
+                "stop_id": "352",
+                "stop_name": "Frigole - Rosticceria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.240226,
+                    40.426585
+                ]
+            },
+            "properties": {
+                "stop_desc": "Borgo Frigole",
+                "stop_code": "453",
+                "stop_id": "353",
+                "stop_name": "Frigole - Stazione Api"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.237017,
+                    40.423918
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "454",
+                "stop_id": "354",
+                "stop_name": "Giammatteo - Prima Di Entrare "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.236759,
+                    40.424058
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Giammatteo",
+                "stop_code": "455",
+                "stop_id": "355",
+                "stop_name": "Giammatteo - Fronte Fermata 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.217504,
+                    40.415803
+                ]
+            },
+            "properties": {
+                "stop_desc": "Borgo Piave",
+                "stop_code": "456",
+                "stop_id": "356",
+                "stop_name": "Piave - Lato Caserma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.217576,
+                    40.41611
+                ]
+            },
+            "properties": {
+                "stop_desc": "Borgo Piave",
+                "stop_code": "457",
+                "stop_id": "357",
+                "stop_name": "Piave - Lato Chiesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.298306,
+                    40.388012
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Colombo C.",
+                "stop_code": "458",
+                "stop_id": "358",
+                "stop_name": "Colombo C. - Ingresso Da Lecce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.303256,
+                    40.388938
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Vespucci A.",
+                "stop_code": "459",
+                "stop_id": "359",
+                "stop_name": "Vespucci A. - Dopo Il Semaforo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.30387,
+                    40.387196
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Vespucci A.",
+                "stop_code": "460",
+                "stop_id": "360",
+                "stop_name": "Vespucci A. - Fronte Lido York"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.305022,
+                    40.384174
+                ]
+            },
+            "properties": {
+                "stop_desc": "V.Le Vespucci A.",
+                "stop_code": "462",
+                "stop_id": "362",
+                "stop_name": "Vespucci A. - Fronte Ostello D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.304497,
+                    40.387626
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Verrazzano G.",
+                "stop_code": "467",
+                "stop_id": "367",
+                "stop_name": "Verrazzano G. - Dopo Svolta A "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.305667,
+                    40.390552
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Caboto",
+                "stop_code": "468",
+                "stop_id": "368",
+                "stop_name": "Caboto - 50 Mt. Prima Del Taba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.301377,
+                    40.393806
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Lungomare Marinai D'Italia",
+                "stop_code": "469",
+                "stop_id": "369",
+                "stop_name": "Lungomare Marinai D'Italia - L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.297868,
+                    40.394416
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gioia F.",
+                "stop_code": "470",
+                "stop_id": "370",
+                "stop_name": "Gioia F. - Dopo Darsena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.296167,
+                    40.391675
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Gioia F.",
+                "stop_code": "471",
+                "stop_id": "371",
+                "stop_name": "Gioia F. - Fronte Civ. 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.296019,
+                    40.390267
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Ca' Da Mosto, 7",
+                "stop_code": "472",
+                "stop_id": "372",
+                "stop_name": "Ca' Da Mosto, 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.297127,
+                    40.388209
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Ca' Da Mosto, 31",
+                "stop_code": "473",
+                "stop_id": "373",
+                "stop_name": "Ca' Da Mosto, 31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.209278,
+                    40.452889
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "476",
+                "stop_id": "376",
+                "stop_name": "Case Simini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.213871,
+                    40.407408
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "477",
+                "stop_id": "377",
+                "stop_name": "Zona Sau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15976,
+                    40.369892
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Nicola, 79",
+                "stop_code": "478",
+                "stop_id": "378",
+                "stop_name": "S. Nicola, 79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159768,
+                    40.372542
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Nicola",
+                "stop_code": "479",
+                "stop_id": "379",
+                "stop_name": "S. Nicola - Fronte Civ. 60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.156877,
+                    40.376647
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S. Nicola",
+                "stop_code": "480",
+                "stop_id": "380",
+                "stop_name": "S. Nicola - Casa Circondariale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.156039,
+                    40.369463
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Calore (cooperativa)",
+                "stop_code": "483",
+                "stop_id": "383",
+                "stop_name": "Calore -  Cooperativa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157642,
+                    40.369515
+                ]
+            },
+            "properties": {
+                "stop_desc": "P.Tta Granito",
+                "stop_code": "484",
+                "stop_id": "384",
+                "stop_name": "Granito - Chiesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.202168,
+                    40.412075
+                ]
+            },
+            "properties": {
+                "stop_desc": "Lecce - Frigole",
+                "stop_code": "486",
+                "stop_id": "386",
+                "stop_name": "Lecce - Frigole (Zona Sau)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168521,
+                    40.385503
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Adriatica",
+                "stop_code": "487",
+                "stop_id": "387",
+                "stop_name": "Outline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.199062,
+                    40.360866
+                ]
+            },
+            "properties": {
+                "stop_desc": "sp Le-San Cataldo (cavalcavia)",
+                "stop_code": "493",
+                "stop_id": "393",
+                "stop_name": "sp Le-San Cataldo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.112372,
+                    40.335469
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "494",
+                "stop_id": "394",
+                "stop_name": "Ecotekne Fiorini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.119475,
+                    40.335408
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "495",
+                "stop_id": "395",
+                "stop_name": "Ecotekne Economia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.115178,
+                    40.334938
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "496",
+                "stop_id": "396",
+                "stop_name": "Ecotekne Ingegneria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.286164,
+                    40.384722
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "497",
+                "stop_id": "397",
+                "stop_name": "san cataldo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.274265,
+                    40.384051
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "498",
+                "stop_id": "398",
+                "stop_name": "via lamia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.272115,
+                    40.387411
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "499",
+                "stop_id": "399",
+                "stop_name": "via cartier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.268406,
+                    40.385819
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "500",
+                "stop_id": "400",
+                "stop_name": "via cartier sn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.26923,
+                    40.383411
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "501",
+                "stop_id": "401",
+                "stop_name": "via malaspina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.25996,
+                    40.377779
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.p. Lecce-S.Cataldo (ang V.dei Nespoli)",
+                "stop_code": "502",
+                "stop_id": "402",
+                "stop_name": "villaggio del sole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.198729,
+                    40.360857
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "503",
+                "stop_id": "403",
+                "stop_name": "sovrapasso dir lecce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17047,
+                    40.375147
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Sesia (fronte carrozziere)",
+                "stop_code": "504",
+                "stop_id": "404",
+                "stop_name": "Sesia (fronte carrozziere)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17721,
+                    40.371814
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Pagano",
+                "stop_code": "505",
+                "stop_id": "405",
+                "stop_name": "Pagano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.148061,
+                    40.376226
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Vallese (IPERCOOP)",
+                "stop_code": "506",
+                "stop_id": "406",
+                "stop_name": "Vallese (IPERCCOP)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.162947,
+                    40.367269
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S.Nicola (fronte V. de Roma)",
+                "stop_code": "507",
+                "stop_id": "407",
+                "stop_name": "S.Nicola (fronte V. De Roma)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.166465,
+                    40.363642
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via S.Nicola (fronte ex macello)",
+                "stop_code": "508",
+                "stop_id": "408",
+                "stop_name": "S. Nicola (fronte ex macello)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.271845,
+                    40.394227
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "510",
+                "stop_id": "410",
+                "stop_name": "Litoranra S. Cataldo-Frigole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.272203,
+                    40.387995
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "511",
+                "stop_id": "411",
+                "stop_name": "Via V. Frigole (ang Cartier) "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169587,
+                    40.366274
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "512",
+                "stop_id": "412",
+                "stop_name": "via v. Cuoco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173496,
+                    40.36505
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "513",
+                "stop_id": "413",
+                "stop_name": "Via Tevere (fr. fermata 303)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170322,
+                    40.375301
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "514",
+                "stop_id": "414",
+                "stop_name": "Via Sesia (carrozziere)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.147636,
+                    40.384876
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "515",
+                "stop_id": "415",
+                "stop_name": "Via C. De Giorgi (Giorgilorio)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.148125,
+                    40.375722
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "516",
+                "stop_id": "416",
+                "stop_name": "Via F.Vallese (lato Brico)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16296,
+                    40.367449
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "517",
+                "stop_id": "417",
+                "stop_name": "Via S.Nicola (ang. V. De Roma)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.160007,
+                    40.369669
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "518",
+                "stop_id": "418",
+                "stop_name": "Via S.Nicola (fr. Via Sinni)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.156659,
+                    40.369256
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "520",
+                "stop_id": "420",
+                "stop_name": "Via Calore (fr. cooperativa)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.157825,
+                    40.369406
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "521",
+                "stop_id": "421",
+                "stop_name": "Via Calore (fr. Chiesa)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159933,
+                    40.369353
+                ]
+            },
+            "properties": {
+                "stop_desc": "",
+                "stop_code": "522",
+                "stop_id": "422",
+                "stop_name": "Via Sinni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.145319,
+                    40.332758
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via M. Mazzotta",
+                "stop_code": "523",
+                "stop_id": "423",
+                "stop_name": "fr. Ist. Agrario \"G. Presta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.145303,
+                    40.332614
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via M. Mazzotta",
+                "stop_code": "524",
+                "stop_id": "424",
+                "stop_name": "Ist. Tec.  Agrario \"G. Presta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20878,
+                    40.421914
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via del Cervone",
+                "stop_code": "525",
+                "stop_id": "425",
+                "stop_name": "Via del Cervone (Frigole)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170621,
+                    40.363804
+                ]
+            },
+            "properties": {
+                "stop_desc": "Via Ungaro",
+                "stop_code": "526",
+                "stop_id": "426",
+                "stop_name": "Via Ungaro (scuola media)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.239456,
+                    40.426326
+                ]
+            },
+            "properties": {
+                "stop_desc": "V. della Vedova (friggitoria)",
+                "stop_code": "527",
+                "stop_id": "427",
+                "stop_name": "V. della Vedova (fr. frigg.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.189636,
+                    40.45085
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.p. Lecce-T. Chianca",
+                "stop_code": "528",
+                "stop_id": "428",
+                "stop_name": "Villaggio Gelsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18329,
+                    40.439555
+                ]
+            },
+            "properties": {
+                "stop_desc": "S.p. Lecce-T.Chianca",
+                "stop_code": "529",
+                "stop_id": "429",
+                "stop_name": "Solicara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.207123,
+                    40.361216
+                ]
+            },
+            "properties": {
+                "stop_desc": "Piazza Madre Teresa di Calcutta",
+                "stop_code": "531",
+                "stop_id": "431",
+                "stop_name": "P.za madre Teresa di Calcutta"
+            }
+        }
+    ]
+}
