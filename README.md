@@ -4,6 +4,6 @@
 Una demo in esercizio con gli orari GTFS invernali, è presente [QUI](https://www.piersoft.it/rovigo/)
 
 Istruzioni:
-Nella cartella GTFS vanno inseriti i files .txt aggiornati secondo l'orario in esercizio. Tutti tranne calendar.txt (deve essere presente calendar_dats.txt nel caso di Rovigo)
-Lanciare quind il file "update.php". Si ricorda che la cartella "json" deve essere scrivibile da "update.php".
+1) Nella cartella GTFS vanno inseriti i files .txt aggiornati secondo l'orario in esercizio. Tutti tranne calendar.txt (deve essere presente calendar_dates.txt nel caso di Rovigo.)
+2) Esguire il file "update.php". Si ricorda che la cartella "json" deve essere scrivibile da "update.php".
 
