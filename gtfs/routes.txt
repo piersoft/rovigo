@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+E501,1,E501,LINEA N.  1/ CIRC. SINISTRA,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E502,1,E502,LINEA N.  2,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E503,1,E503,LINEA N.  3,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E504,1,E504,LINEA N.  4,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E505,1,E505,LINEA N.  5,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E506,1,E506,LINEA N.  6,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E507,1,E507,LINEA N.  7,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E508,1,E508,LINEA N.  8,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E509,1,E509,LINEA N.  9 - NAVETTA,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E509/,1,E509/,LINEA N.  9/,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E510,1,E510,LINEA N. 10,Urbano Rovigo,3,"",FFFFFF,FFFFFF
+E512,1,E512,LINEA N. 12 - NAVETTA,Urbano Rovigo,3,"",FFFFFF,FFFFFF
