@@ -7,3 +7,9 @@ Istruzioni:
 1) Nella cartella GTFS vanno inseriti i files .txt aggiornati secondo l'orario in esercizio. Tutti tranne calendar.txt (deve essere presente calendar_dates.txt nel caso di Rovigo.)
 2) Esguire il file "update.php". Si ricorda che la cartella "json" deve essere scrivibile da "update.php".
 
+
+Alcuni link interni nei files vanno aggiornati rispetto al proprio path (da www.piersoft.it a www.nomedominio.it)
+
+LIC MIT
+Piersoft
+
